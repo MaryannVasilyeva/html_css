@@ -1,0 +1,44 @@
+.fancyBorder {
+	padding: 30px;
+	align: left;
+	max-width: 200px;
+	border: dashed 2px black;
+	color: purple;
+}
+
+.font-2 { 
+	font-size: 26px; 
+}
+
+.font-3 { 
+	font-size: 34px; 
+}
+
+.right-fifty-pct { 
+	margin: center; 
+}
+
+.border {
+	border-left: 3px solid black;
+}
+
+.centering {
+	text-align: center;
+	padding-left: 50px;
+}
+
+.picRight {
+	margin-left: 10em;
+}
+.ul{
+	text-decoration: underline;
+}
+
+.one{
+	padding-left: 200%;
+}
+
+.border-color {
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
